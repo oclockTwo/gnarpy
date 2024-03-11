@@ -2,6 +2,7 @@ import { Inter, Lora } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header/Header";
 import Script from "next/script";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 const inter = Inter({ subsets: ["latin"] });
 const lora = Lora({
@@ -39,6 +40,7 @@ export default function RootLayout({ children }) {
         <Header />
         {children}
       </body>
+      <GoogleAnalytics gaId="G-ZVJD2TJ85Y" />
     </html>
   );
 }
