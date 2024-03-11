@@ -12,13 +12,13 @@ const lora = Lora({
 });
 
 export const metadata = {
-  title: "Gnarpy - Summary of all information",
+  title: "Gnarpy - Know Gnarpy Everything",
   description:
-    "Presenting all the relevant information about Gnarpy and an in-depth analysis of this NPC",
-  author: "Blini",
+    "Presenting all the relevant information about Gnarpy and an in-depth analysis of gnarpy",
   alternates: {
     canonical: "https://gnarpy.com",
   },
+  authors: [{name: "blini"}],
 };
 
 export const viewport = {

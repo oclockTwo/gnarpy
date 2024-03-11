@@ -33,6 +33,10 @@ export default function Header() {
             <Link href="/" className={activeLinkClass("/")}>
               Home
             </Link>
+            {/* TODO: 这里的样式不会生效，因为点击页内导航时，不会触发页面刷新，所以不会触发activeLinkClass函数 */}
+            <Link href="#faq" className={activeLinkClass("/#faq")}>
+              FAQ
+            </Link>
             <Link href="/blog" className={activeLinkClass("/blog")}>
               Blog
             </Link>

@@ -33,6 +33,7 @@ export default function Home() {
           <Image
             src={gnarpyBrand}
             alt="gnarpy style brand"
+            priority
             sizes="100vw"
             style={{
               width: "100%",
@@ -76,7 +77,7 @@ export default function Home() {
           </p>
         </div>
         <div className="flex flex-col md:flex-row items-center">
-          <div className="flex flex-col flex-shrink-0">
+          <div className="flex flex-col flex-shrink-0 pl-10">
             <Image
               src={gnarpyNew}
               alt="gnarpy new model"
@@ -87,7 +88,7 @@ export default function Home() {
               gnarpy new model
             </h3>
           </div>
-          <p className="text-md font-medium md:pl-[100px]">
+          <p className="text-md font-medium md:pl-[60px]">
             The new model of Gnarpy has undergone significant changes in
             appearance. Xe now has four hands instead of two, four ears instead
             of two, and two tails instead of one. The facial whiskers have also
@@ -148,7 +149,7 @@ export default function Home() {
       <Gally />
       <h2 className="text-4xl my-4 font-bold">People Talk About Gnarpy on X</h2>
       <TwitterPost />
-      <h2 className="text-4xl my-4 font-bold">FAQ About Gnarpy</h2>
+      <h2 className="text-4xl my-4 font-bold" id="faq">FAQ About Gnarpy</h2>
       <Faq />
     </div>
   );
