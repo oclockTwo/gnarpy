@@ -1,0 +1,90 @@
+{
+  "IndexPage": {
+    "title": "Gnarpy - Conoce todo sobre Gnarpy",
+    "description": "Presentando toda la información relevante sobre Gnarpy y un análisis en profundidad de Gnarpy",
+    "headline": {
+      "h1": "Gnarpy Pedia",
+      "h1p1": "Gnarpy es un personaje NPC en el juego Regretevator, que es un juego desarrollado utilizando la plataforma Roblox y publicado en ella, creado por un desarrollador llamado ",
+      "h1p2": "The Axolotl Sun",
+      "h1p3": "Gnarpy ha atraído mucha discusión entre la comunidad de jugadores por haber sido rediseñado.",
+      "h2-1": "Apariencia de Gnarpy",
+      "h3-1": "modelo antiguo de gnarpy",
+      "h3-1-p1": "La apariencia del modelo antiguo de Gnarpy es principalmente de un verde neón brillante, excepto por una estrella pentagonal amarilla en el vientre. La estructura corporal de xem es similar a la de un humano, pero con un rostro algo gatuno. Además, hay dos antenas en la parte superior de la cabeza, con puntas que pueden emitir una luz amarilla brillante.<br></br><br></br>La boca de Gnarpy se asemeja a un bigote humano, bastante distintivo. Xus brazos y piernas, además de ser de un verde brillante, también tienen varias rayas verdes oscuras, agregando algo de ornamentación a su imagen. <br></br><br></br>Al igual que un gato, Gnarpy tiene una cola, también de un verde brillante, con dos rayas verdes oscuras. Si solo miras la cola, es como una oruga. Además, los ojos de Gnarpy siempre están cerrados, añadiendo un toque de simplicidad a su porte.",
+      "h3-2": "modelo nuevo de gnarpy",
+      "h3-2-p1": "El nuevo modelo de Gnarpy ha sufrido cambios significativos en su apariencia. Ahora tiene cuatro manos en lugar de dos, cuatro orejas en lugar de dos y dos colas en lugar de una. Los bigotes faciales también se han vuelto más pronunciados; anteriormente, había cuatro bigotes, dos a cada lado de la cara, pero ahora hay tres en cada lado, haciendo un total de seis. Además, donde antes había dos ojos, ahora hay cuatro.<br></br>Además, una actualización importante es que el nuevo Gnarpy ha añadido ropa y botas, ambas de color rojo oscuro. La ropa cuenta con una pequeña estrella amarilla oscura en el pecho. Además, las piernas, que antes eran de un verde brillante, ahora se han vuelto amarillas. Las rayas verdes oscuras en el cuerpo también han aumentado en número.<br></br>El modelo antiguo de Gnarpy parecía como si todo su cuerpo hubiera sido ensamblado a partir de varios bloques, mientras que el nuevo modelo de Gnarpy tiene extremidades más antropomórficas. El rostro aún se asemeja al de un gato. Sin embargo, debido a la cantidad de extremidades, muchos dicen que xem es un gato de otro planeta.<br></br><br></br>Cabe destacar que, en su piel de Halloween, xem tiene parches en su brazo derecho, pie izquierdo y cintura.",
+      "h2-2": "Descripción de Gnarpy en el juego",
+      "h2-2-p1": "La nave espacial verde de Gnarpy sufre un desperfecto en el bosque del Campamento Two Stud, estrellándose en el área secreta del campamento, donde procederá a colarse en el ascensor. Hay una probabilidad del 50/50 de que xem o ¡Spud! entren al ascensor en ese piso.",
+      "h3-3": "Campamento Two Stud",
+      "h3-4": "Spud",
+      "h2-3": "Voz y Música de Gnarpy",
+      "h2-4": "Blog de Gnarpy",
+      "h2-5": "Galería de Modelos de Gnarpy",
+      "h2-5-p1": "(fuente: x)",
+      "h2-6": "La gente habla sobre Gnarpy en X",
+      "h2-7": "Preguntas Frecuentes sobre Gnarpy"
+    },
+    "blog": {
+      "title-1": "¿Por qué Gnarpy es tan popular?",
+      "p1": "Hay tantos NPCs en este juego de Regretevato, ¿por qué el personaje de Gnarpy es el único que causa una discusión tan generalizada? ¿Se debe a la imagen del personaje?"
+    }
+  },
+  "HeaderPage": {
+    "home": "Inicio",
+    "faq": "Preguntas Frecuentes",
+    "blog": "Blog"
+  },
+  "VoiceTablePage": {
+    "table-description": "Voz y canciones de Gnarpy",
+    "description": "Descripción",
+    "audio": "Audio",
+    "p1": "Gnarpy está cantando canciones pop",
+    "p2": "Gnarpy está cantando para ti",
+    "p3": "Gnarpy te está enseñando japonés",
+    "error": "Tu navegador no admite el elemento de audio"
+  },
+  "FAQPage": {
+    "q1": "¿Qué es Gnarpy?",
+    "a1": "Gnarpy es un personaje NPC en el juego Regretevator, que es un juego desarrollado utilizando la plataforma Roblox y publicado en ella, creado por un desarrollador llamado The Axolotl Sun",
+    "q2": "¿Origen de Gnarpy?",
+    "a2": "Gnarpy fue diseñado inicialmente por AFRMation en Twitter, pero fue rediseñado debido a su reputación negativa. Antes de ser añadido al juego, Gnarpy era un OC (personaje original) de Regretevator. La imagen de Gnarpy se inspiró en el emoji :gnarpy: en el servidor oficial de Discord de The Axolotl Sun, creado por pizzacruzt en Discord.",
+    "q3": "¿Cómo obtener la insignia 'CRASH LANDING'?",
+    "a3": "Los jugadores pueden obtener la insignia 'Crash Landing' la primera vez que se encuentran con Gnarpy. Si un jugador muere antes de que termine el evento de invasión OVNI, no pueden obtener la insignia, lo que significa que deben sobrevivir para obtenerla.",
+    "q4": "¿Puede Gnarpy sentarse?",
+    "a4": "Actualmente, Gnarpy no tiene una animación de sentarse. En su lugar, xe se para y se desliza por el piso de Slide 4 Admin.",
+    "q5": "¿Cuándo Gnarpy no entrará al ascensor?",
+    "a5": "Gnarpy no entrará al ascensor si MR está dentro; en su lugar, xe seguirá corriendo, probablemente buscando otro lugar para esconderse.",
+    "q6": "¿Cuántos modelos tiene Gnarpy?",
+    "a6": "Hay un total de cuatro modelos, lo que convierte a Gnarpy en el NPC con más modelos.",
+    "q7": "¿Qué mercancía tiene Gnarpy?",
+    "a7": "Actualmente hay seis piezas de mercancía disponibles para la compra: 'Gnarpy's left shoulder fur', 'Gnarpy's right shoulder fur', 'Gnarpy's neck fur', 'Gnarpy's face fur', 'Gnarpy's ears' y 'Gnarpy's head fur'. Otra mercancía fue retirada debido a algunas disputas de diseño.",
+    "q8": "¿Inspiración y fuente de la voz de Gnarpy?",
+    "a8": "El audio anterior de Gnarpy cuando era golpeado por una bola de nieve o rociado con agua provenía originalmente de Deltarune. Específicamente, era el grito de Noelle cuando Maus se acercaba a ella en la sala del rompecabezas del ratón. El audio de voz de Gnarpy provenía originalmente de un video de 'la persona que olvidó apagar el cambiador de voz durante la clase'. Según esta persona, xe accidentalmente activó el efecto Synth en el procesador de voz Roland VT-3 antes de hacer una pregunta, haciendo que su voz sonara así en el video. En el juego, la velocidad de esta voz se incrementa aproximadamente un 25%.",
+    "q9": "¿Dónde dejará Gnarpy el ascensor?",
+    "a9": "Gnarpy dejará el ascensor en el piso de la torreta. A los jugadores se les permite darle una moneda. Sin embargo, si lo hacen, no sucede nada.",
+    "q10": "¿Cuál es el género de Gnarpy?",
+    "a10": "Gnarpy no tiene género, por lo que se utilizan los pronombres xry/xe.",
+    "q11": "¿Cuál es la edad de Gnarpy?",
+    "a11": "El cumpleaños es el 9 de agosto, pero no se da un año específico. Sin embargo, se puede considerar el año de creación del juego (2020) para el cálculo.",
+    "q12": "¿De dónde es Gnarpy?",
+    "a12": "Gnarpy es del planeta inexistente Gars. Según The Axolotl Sun, el creador del juego Regretevator, Gnarpy es malvado.",
+    "q13": "¿Especie de Gnarpy?",
+    "a13": "Los Gnarpianos se dividen en varios rangos: ciudadanos, soldados, líderes adjuntos y líderes principales, cada uno con roles predeterminados. Cada ejército puede tener hasta dos líderes adjuntos, dependiendo de la cantidad de trabajo que necesiten hacer. Las naves azules en tierra son Gnarpianos soldados y son azules. Gnarpy está listado como líder conjunto en el ejército Gnarpiano, lo que le hace especial. Los Gnarpianos pueden comunicarse con otras criaturas similares a ellos. Se dice que Gnarpy y/o los Gnarpianos saludan a otros personajes similares golpeteando sus rostros con sus bigotes.",
+    "q14": "¿Cuál es la comida favorita de Gnarpy?",
+    "a14": "Glorpnorps Gnarpianos, y xus tipo de comida favorito es la fruta.",
+    "q15": "¿Cuál es la música favorita de Gnarpy?",
+    "a15": "Death metal."
+  },
+  "BlogPage": {
+    "title": "Noticias de Gnarpy",
+    "description": "Descubre las últimas noticias sobre Gnarpy",
+    "h1": "Descubre las últimas noticias sobre Gnarpy",
+    "h1-p1": "Noticias y análisis en profundidad sobre Gnarpy",
+    "title-1": "¿Por qué Gnarpy es tan popular?",
+    "p1": "Hay tantos NPCs en este juego de Regretevato, ¿por qué el personaje de Gnarpy es el único que causa una discusión tan generalizada? ¿Se debe a la imagen del personaje?"
+  },
+  "BlogArticlePage": {
+    "title": "¿Por qué Gnarpy es tan popular?",
+    "description": "Hay tantos NPCs en este juego de Regretevato, ¿por qué el personaje de Gnarpy es el único que causa una discusión tan generalizada?",
+    "content": "Hay tantos NPCs en este juego de Regretevato, ¿por qué el personaje de Gnarpy es el único que causa una discusión tan generalizada? ¿Se debe a la imagen del personaje?"
+  }
+}

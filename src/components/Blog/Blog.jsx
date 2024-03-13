@@ -1,9 +1,12 @@
 import Image from "next/image";
-import Link from "next/link";
+// import Link from "next/link";
+import {Link} from '@/navigation';
+import { useTranslations } from "next-intl";
 
 import gnarpyGun from "/public/images/gally/19.jpeg";
 
 export default function Blog() {
+  const t = useTranslations("IndexPage");
   return (
     <>
       <Link href="/blog/why-gnarpy-so-popular">
@@ -18,11 +21,9 @@ export default function Blog() {
             />
           </figure>
           <div className="card-body h-[300px]">
-            <h2 className="card-title">Why is gnarpy so popular?</h2>
+            <h2 className="card-title">{t("blog.title-1")}</h2>
             <p className="mt-6">
-              There are so many NPCs in this game of regretevato, why is the
-              gnarpy character the only one that causes such widespread
-              discussion. Is it because of the character&#39;s image?
+              {t("blog.p1")}
             </p>
           </div>
         </div>

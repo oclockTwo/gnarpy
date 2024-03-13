@@ -1,0 +1,90 @@
+{
+  "IndexPage": {
+    "title": "Gnarpy - Biết Tất Cả Về Gnarpy",
+    "description": "Trình bày tất cả thông tin liên quan về Gnarpy và phân tích sâu về gnarpy",
+    "headline": {
+      "h1": "Gnarpy Pedia",
+      "h1p1": "Gnarpy là một nhân vật NPC trong trò chơi regretevator, đây là một trò chơi được phát triển sử dụng nền tảng Roblox và được xuất bản trên đó, được tạo ra bởi một nhà phát triển có tên ",
+      "h1p2": "The Axolotl Sun",
+      "h1p3": "Gnarpy đã thu hút nhiều cuộc thảo luận trong cộng đồng game vì đã được thiết kế lại.",
+      "h2-1": "Diện Mạo Của Gnarpy",
+      "h3-1": "mô hình cũ của gnarpy",
+      "h3-1-p1": "Diện mạo của mô hình cũ của Gnarpy chủ yếu là màu xanh lá cây neon sáng, ngoại trừ một ngôi sao ngũ giác màu vàng trên bụng. Cơ thể của xì có cấu trúc giống con người nhưng với khuôn mặt hơi giống mèo. Ngoài ra, có hai ăng-ten ở đỉnh đầu, với đầu nhọn có thể phát ra ánh sáng vàng chói.<br></br><br></br>Miệng của Gnarpy giống như ria mép của con người, rất khác biệt. Cánh tay và chân của xì, ngoài màu xanh lá cây sáng, cũng có một số vằn sọc xanh đậm, tăng thêm điểm nhấn cho hình ảnh của xì. <br></br><br></br>Giống như một con mèo, Gnarpy có đuôi, cũng màu xanh lá cây sáng, với hai vằn sọc xanh đậm. Nếu chỉ nhìn đuôi, nó giống như một con sâu. Hơn nữa, mắt của Gnarpy luôn nhắm lại, thêm một chút đơn giản cho vẻ ngoài của xì.",
+      "h3-2": "mô hình mới của gnarpy",
+      "h3-2-p1": "Mô hình mới của Gnarpy đã trải qua những thay đổi lớn về ngoại hình. Xì giờ đây có bốn bàn tay thay vì hai, bốn tai thay vì hai, và hai đuôi thay vì một. Râu mặt cũng trở nên rõ ràng hơn; trước đây, có bốn râu, hai ở mỗi bên mặt, nhưng bây giờ có ba ở mỗi bên, làm tổng cộng sáu. Hơn nữa, nơi trước đây chỉ có hai mắt, bây giờ là bốn.<br></br>Ngoài ra, một bản cập nhật quan trọng là Gnarpy mới đã thêm quần áo và ủng, cả hai đều màu đỏ tối. Quần áo có một ngôi sao nhỏ màu vàng đậm trên ngực. Ngoài ra, phần chân, trước đây màu xanh lá cây sáng, bây giờ đã chuyển sang màu vàng. Các vằn sọc xanh đậm trên cơ thể cũng đã tăng số lượng.<br></br>Mô hình cũ của Gnarpy có vẻ như toàn bộ cơ thể được lắp ghép từ nhiều khối, trong khi mô hình mới của Gnarpy có các chi thì mang tính nhân hóa hơn. Khuôn mặt vẫn giống mèo. Tuy nhiên, do số lượng chi, nhiều người nói rằng xì là một con mèo từ hành tinh khác.<br></br><br></br>Đáng chú ý, trên lớp da Halloween của Xì, xì có miếng vá trên cánh tay phải, bàn chân trái, và eo.",
+      "h2-2": "Mô Tả Gnarpy Trong Trò Chơi",
+      "h2-2-p1": "Tàu vũ trụ xanh của Gnarpy gặp trục trặc trong khu rừng tại Trại Two Stud, đâm xuống khu vực bí mật của trại, nơi xì sẽ tiếp tục lẻn vào thang máy. Có xác suất 50/50 cho một trong hai, xì hoặc Spud! vào thang máy trên tầng này.",
+      "h3-3": "Tow Stud Camp",
+      "h3-4": "Spud",
+      "h2-3": "Giọng Nói Và Nhạc Của Gnarpy",
+      "h2-4": "Blog Gnarpy",
+      "h2-5": "Bảo Tàng Mô Hình Gnarpy",
+      "h2-5-p1": "(nguồn từ x)",
+      "h2-6": "Mọi Người Nói Về Gnarpy trên X",
+      "h2-7": "Câu Hỏi Thường Gặp Về Gnarpy"
+    },
+    "blog": {
+      "title-1": "Tại sao gnarpy lại nổi tiếng vậy?",
+      "p1": "Có rất nhiều NPC trong trò chơi regretevato này, tại sao nhân vật gnarpy lại là nhân vật duy nhất gây ra nhiều cuộc thảo luận rộng rãi như vậy. Có phải là do hình ảnh của nhân vật đó?"
+    }
+  },
+  "HeaderPage": {
+    "home": "Trang Chủ",
+    "faq": "Câu Hỏi Thường Gặp",
+    "blog": "Blog"
+  },
+  "VoiceTablePage": {
+    "table-description": "giọng nói và bài hát của gnarpy",
+    "description": "Mô Tả",
+    "audio": "Âm Thanh",
+    "p1": "gnarpy đang hát những bài hát pop",
+    "p2": "gnarpy đang hát cho bạn",
+    "p3": "Gnarpy đang dạy bạn tiếng Nhật",
+    "error": "Trình duyệt của bạn không hỗ trợ phần tử âm thanh"
+  },
+  "FAQPage": {
+    "q1": "Gnarpy là gì?",
+    "a1": "Gnarpy là một nhân vật NPC trong trò chơi regretevator, đây là một trò chơi được phát triển sử dụng nền tảng Roblox và được xuất bản trên đó, được tạo ra bởi một nhà phát triển có tên The Axolotl Sun",
+    "q2": "Nguồn gốc của Gnarpy?",
+    "a2": "Gnarpy lần đầu được thiết kế bởi AFRMation trên Twitter nhưng đã được thiết kế lại do danh tiếng xấu của họ. Trước khi được thêm vào trò chơi, Gnarpy là một OC (nhân vật gốc) của Regretevator. Hình ảnh của Gnarpy được lấy cảm hứng từ emoji :gnarpy: trên máy chủ Discord chính thức của The Axolotl Sun, được tạo ra bởi pizzacruzt trên Discord.",
+    "q3": "Làm thế nào để nhận huy hiệu 'CRASH LANDING'?",
+    "a3": "Người chơi có thể nhận huy hiệu 'Crash Landing' lần đầu tiên họ gặp Gnarpy. Nếu người chơi chết trước khi sự kiện xâm lược UFO kết thúc, họ sẽ không thể nhận huy hiệu, có nghĩa là họ phải sống sót để nhận được nó.",
+    "q4": "Gnarpy có thể ngồi không?",
+    "a4": "Hiện tại, Gnarpy không có hoạt ảnh ngồi. Thay vào đó, xì đứng và trượt trên sàn Slide 4 Admin.",
+    "q5": "Khi nào Gnarpy sẽ không vào thang máy?",
+    "a5": "Gnarpy sẽ không vào thang máy nếu MR ở bên trong; thay vào đó, xì sẽ tiếp tục chạy, có lẽ đang tìm kiếm một nơi khác để trốn.",
+    "q6": "Gnarpy có bao nhiêu mô hình?",
+    "a6": "Tổng cộng có bốn mô hình, khiến Gnarpy trở thành NPC có nhiều mô hình nhất.",
+    "q7": "Gnarpy có hàng hóa nào?",
+    "a7": "현재 'Gnarpy's left shoulder fur', 'Gnarpy's right shoulder fur', 'Gnarpy's neck fur', 'Gnarpy's face fur', 'Gnarpy's ears', 'Gnarpy's head fur'의 6개 상품이 구매 가능합니다. 디자인 분쟁으로 인해 다른 상품은 전량 회수되었습니다.",
+    "q8": "Nguồn cảm hứng và nguồn gốc giọng nói của Gnarpy?",
+    "a8": "Âm thanh trước đây của Gnarpy khi bị trúng bóng tuyết hay bị phun nước ban đầu đến từ Deltarune. Cụ thể, đó là tiếng hét của Noelle khi Maus tiếp cận cô ấy trong phòng câu đố chuột. Âm thanh nói của Gnarpy ban đầu đến từ một video của 'người quên tắt bộ chuyển đổi giọng nói trong lớp học'. Theo người này, xì vô tình bật hiệu ứng Synth trên bộ xử lý giọng nói Roland VT-3 trước khi hỏi một câu hỏi, khiến giọng nói của họ nghe giống như trong video. Trong trò chơi, tốc độ của giọng nói này được tăng lên khoảng 25%.",
+    "q9": "Gnarpy sẽ rời thang máy ở đâu?",
+    "a9": "Gnarpy sẽ rời thang máy ở tầng tháp pháo. Người chơi được phép đưa cho xì một đồng xu. Tuy nhiên, nếu họ làm như vậy, sẽ không có gì xảy ra.",
+    "q10": "Giới tính của Gnarpy là gì?",
+    "a10": "Gnarpy không có giới tính, nên đại từ xry/xe được sử dụng.",
+    "q11": "Gnarpy bao nhiêu tuổi?",
+    "a11": "Ngày sinh nhật là 9 tháng 8, nhưng không có năm cụ thể nào được đưa ra. Tuy nhiên, năm ra mắt của trò chơi (2020) có thể được xem xét để tính toán.",
+    "q12": "Gnarpy đến từ đâu?",
+    "a12": "Gnarpy đến từ hành tinh không tồn tại Gars. Theo The Axolotl Sun, người sáng tạo ra trò chơi regretevator, Gnarpy là xấu xa.",
+    "q13": "Loài của Gnarpy?",
+    "a13": "Người Gnarpian được chia thành nhiều hạng: công dân, lính, phó lãnh đạo và lãnh đạo chính, mỗi người có vai trò được xác định trước. Mỗi đạo quân có thể có tối đa hai phó lãnh đạo, tùy thuộc vào khối lượng công việc họ cần làm. Các con tàu màu xanh trên mặt đất là lính Gnarpian và màu xanh. Gnarpy được liệt kê là lãnh đạo chung trong quân đội Gnarpian, điều này khiến xì trở nên đặc biệt. Người Gnarpian có thể giao tiếp với những sinh vật khác giống họ. Người ta nói rằng Gnarpy và/hoặc người Gnarpian chào đón những nhân vật tương tự bằng cách gõ mặt họ bằng ria mép của mình.",
+    "q14": "Món ăn yêu thích của Gnarpy?",
+    "a14": "Glorpnorps Gnarpian, và loại thực phẩm yêu thích của xì là trái cây.",
+    "q15": "Âm nhạc yêu thích của Gnarpy?",
+    "a15": "Death metal."
+  },
+  "BlogPage": {
+    "title": "Tin Tức Gnarpy",
+    "description": "Tìm hiểu tin tức mới nhất về Gnarpy",
+    "h1": "Tìm hiểu tin tức mới nhất về Gnarpy",
+    "h1-p1": "Tin tức và phân tích sâu về Gnarpy",
+    "title-1": "Tại sao gnarpy lại nổi tiếng vậy?",
+    "p1": "Có rất nhiều NPC trong trò chơi regretevato này, tại sao nhân vật gnarpy lại là nhân vật duy nhất gây ra nhiều cuộc thảo luận rộng rãi như vậy. Có phải là do hình ảnh của nhân vật đó?"
+  },
+  "BlogArticlePage": {
+    "title": "tại sao gnarpy lại nổi tiếng vậy?",
+    "description": "Có rất nhiều NPC trong trò chơi regretevato này, tại sao nhân vật gnarpy lại là nhân vật duy nhất gây ra nhiều cuộc thảo luận rộng rãi như vậy.",
+    "content": "Có rất nhiều NPC trong trò chơi regretevato này, tại sao nhân vật gnarpy lại là nhân vật duy nhất gây ra nhiều cuộc thảo luận rộng rãi như vậy. Có phải là do hình ảnh của nhân vật đó?"
+  }
+}

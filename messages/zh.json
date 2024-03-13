@@ -1,0 +1,90 @@
+{
+  "IndexPage": {
+    "title": "Gnarpy - 了解关于Gnarpy的所有事情",
+    "description": "展示有关Gnarpy的所有相关信息以及对gnarpy的深入分析",
+    "headline": {
+      "h1": "Gnarpy百科",
+      "h1p1": "Gnarpy是游戏regretevator中的NPC角色，该游戏是使用Roblox平台开发并在其上发布的，由一个名为的开发者创建",
+      "h1p2": "The Axolotl Sun",
+      "h1p3": "Gnarpy因重新设计而在游戏社区中引起了大量讨论。",
+      "h2-1": "Gnarpy的形象",
+      "h3-1": "gnarpy改版前的形象",
+      "h3-1-p1": "Gnarpy的旧模型外观主要是明亮的霓虹绿色，除了腹部有一个黄色的五角星。Xe的身体结构像人类，但面部有点像猫。此外，头顶有两个天线，尖端可以发出明亮的黄光。<br></br><br></br>Gnarpy的嘴巴类似于人类的胡须，非常独特。Xyr的手臂和腿除了是鲜亮的绿色外，还有几条深绿色的条纹，为xyr的形象增添了一些装饰。<br></br><br></br>像猫一样，Gnarpy也有一条尾巴，也是鲜亮的绿色，上面有两条深绿色的条纹。如果你只看尾巴，它就像一只毛毛虫。此外，Gnarpy的眼睛总是闭着的，为xyr的风度增添了一份简单感。",
+      "h3-2": "gnarpy现在的形象",
+      "h3-2-p1": "Gnarpy的新模型在外观上经历了显著的变化。Xe现在有四只手而不是两只，四只耳朵而不是两只，以及两条尾巴而不是一条。面部的胡须也变得更加明显；以前是每边脸上有两根胡须，共四根，但现在每边有三根，共六根。更重要的是，以前有两只眼睛的地方，现在有了四只。<br></br>此外，一个重要的更新是新的Gnarpy增加了衣服和靴子，都是深红色的。衣服在胸前有一个深黄色的小星星。此外，以前是鲜亮的绿色的腿，现在变成了黄色。身体上的深绿色条纹也增加了。<br></br>旧模型的Gnarpy看起来像是整个身体由几个块组成，而新模型的Gnarpy有更多类人的四肢。脸仍然像猫那样。然而，由于四肢的数量，许多人说xe是来自另一个星球的猫。<br></br><br></br>值得注意的是，在Xyr的万圣节皮肤上，xe的右臂、左脚和腰部有补丁。",
+      "h2-2": "Gnarpy在游戏中的行为",
+      "h2-2-p1": "Gnarpy的绿色宇宙飞船在Tow Stud Camp的森林中发生故障，坠毁在营地的秘密区域，随后xe将潜入电梯。在电梯楼层，xem或Spud!进入电梯的几率各为50/50。",
+      "h3-3": "Tow Stud Camp",
+      "h3-4": "Spud",
+      "h2-3": "Gnarpy声音和音乐",
+      "h2-4": "Gnarpy博客",
+      "h2-5": "Gnarpy形象画廊",
+      "h2-5-p1": "(sourced from x)",
+      "h2-6": "人们在X上关于gnarpy的讨论",
+      "h2-7": "关于Gnarpy的问答"
+    },
+    "blog": {
+      "title-1": "为什么gnarpy如此受欢迎?",
+      "p1": "在regretevato这款游戏中有这么多NPC，为什么只有gnarpy角色引起了如此广泛的讨论。这是因为角色的形象吗？"
+    }
+  },
+  "HeaderPage": {
+    "home": "Home",
+    "faq": "FAQ",
+    "blog": "Blog"
+  },
+  "VoiceTablePage": {
+    "table-description": "gnarpy的声音和歌曲",
+    "description": "描述",
+    "audio": "音频",
+    "p1": "gnarpy正在唱流行歌曲",
+    "p2": "gnarpy为你唱歌",
+    "p3": "Gnarpy正在教你日语",
+    "error": "您的浏览器不支持音频元素"
+  },
+  "FAQPage": {
+    "q1": "什么是Gnarpy?",
+    "a1": "Gnarpy是游戏regretevator中的NPC角色，该游戏是在Roblox平台上开发并发布的，由一个叫The Axolotl Sun的开发者创建。",
+    "q2": "Gnarpy的起源?",
+    "a2": "Gnarpy最初由Twitter上的AFRMation设计，但由于其负面声誉而被重新设计。在被添加到游戏之前，Gnarpy是一个Regretevator的原创角色(OC)。Gnarpy的形象灵感来自The Axolotl Sun官方Discord服务器上的:gnarpy: emoji，由Discord上的pizzacruzt创建。",
+    "q3": "如何获得“CRASH LANDING”徽章?",
+    "a3": "玩家在第一次遇到Gnarpy时可以获得“Crash Landing”徽章。如果玩家在UFO入侵事件结束前死亡，他们将无法获得徽章，这意味着他们必须存活下来才能获得它。",
+    "q4": "Gnarpy能坐下吗?",
+    "a4": "目前，Gnarpy没有坐下的动画。相反，xe站立并在Slide 4 Admin楼层上滑行。",
+    "q5": "Gnarpy什么时候不会进入电梯?",
+    "a5": "如果MR在电梯内，Gnarpy不会进入电梯；相反，xe会继续跑，可能在寻找另一个藏身之处。",
+    "q6": "Gnarpy有多少模型?",
+    "a6": "总共有四个模型，使Gnarpy成为模型最多的NPC。",
+    "q7": "Gnarpy有哪些商品?",
+    "a7": "目前有六件商品可供购买：“Gnarpy的左肩毛”，“Gnarpy的右肩毛”，“Gnarpy的颈部毛”，“Gnarpy的脸部毛”，“Gnarpy的耳朵”和“Gnarpy的头部毛”。其他商品由于一些设计争议而被撤下。",
+    "q8": "Gnarpy的声音灵感和来源?",
+    "a8": "Gnarpy被雪球击中或被水喷射时的早期音频最初来自Deltarune。具体来说，是Noelle在鼠标谜题房间Maus接近她时的尖叫声。Gnarpy的说话音频最初来自一个视频，“上课时忘记关闭变声器的人”。根据这个人说，xe在提问前不小心触碰了Roland VT-3声音处理器上的Synth效果，使他们的声音在视频中听起来就像那样。在游戏中，这个声音的速度提高了大约25%。",
+    "q9": "Gnarpy会在哪里离开电梯?",
+    "a9": "Gnarpy将在炮塔楼层离开电梯。玩家可以给xem一个硬币。然而，如果他们这样做了，什么也不会发生。",
+    "q10": "Gnarpy的性别是什么?",
+    "a10": "Gnarpy是无性别的，所以使用xry/xe代词。",
+    "q11": "Gnarpy的年龄是多少?",
+    "a11": "生日是8月9日，但没有给出具体年份。然而，可以考虑游戏的创建年份（2020年）进行计算。",
+    "q12": "Gnarpy来自哪里?",
+    "a12": "Gnarpy来自一个不存在的星球Gars。根据regretevator游戏的创造者The Axolotl Sun，Gnarpy是邪恶的。",
+    "q13": "Gnarpy的种族是什么?",
+    "a13": "Gnarpians被分为几个等级：公民、士兵、副领袖和主领袖，每个等级都有预定的角色。每个军队可以有最多两个副领导，这取决于他们需要完成多少工作。地面上的蓝色飞船是士兵gnarpians，是蓝色的。Gnarpy被列为Gnarpian军队的联合领导者，这使xem特别。Gnarpians可以与其他像他们一样的生物交流。据说Gnarpy和/或Gnarpians通过用他们的胡须轻拍其他类似角色的脸来打招呼。",
+    "q14": "Gnarpy最喜欢的食物是什么?",
+    "a14": "Gnarpian glorpnorps，xis最喜欢的食物类型是水果。",
+    "q15": "Gnarpy最喜欢的音乐是什么?",
+    "a15": "死亡金属。"
+  },
+  "BlogPage": {
+    "title": "Gnarpy新闻",
+    "description": "了解关于Gnarpy的最新消息",
+    "h1": "了解关于Gnarpy的最新消息",
+    "h1-p1": "Gnarpy新闻和深入分析",
+    "title-1": "为什么gnarpy如此受欢迎?",
+    "p1": "在regretevato这款游戏中有这么多NPC，为什么只有gnarpy角色引起了如此广泛的讨论。这是因为角色的形象吗？"
+  },
+  "BlogArticlePage": {
+    "title": "为什么gnarpy如此受欢迎?",
+    "description": "在regretevato这款游戏中有这么多NPC，为什么只有gnarpy角色引起了如此广泛的讨论。",
+    "content": "在regretevato这款游戏中有这么多NPC，为什么只有gnarpy角色引起了如此广泛的讨论。这是因为角色的形象吗？"
+  }
+}

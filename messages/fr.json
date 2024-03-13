@@ -1,0 +1,90 @@
+{
+  "IndexPage": {
+    "title": "Gnarpy - Savoir tout sur Gnarpy",
+    "description": "Présentation de toutes les informations pertinentes sur Gnarpy et une analyse approfondie de gnarpy",
+    "headline": {
+      "h1": "Gnarpy Pedia",
+      "h1p1": "Gnarpy est un personnage PNJ dans le jeu regretevator, un jeu développé sur la plateforme Roblox et publié sur celle-ci, créé par un développeur appelé ",
+      "h1p2": "The Axolotl Sun",
+      "h1p3": "Gnarpy a suscité de nombreuses discussions au sein de la communauté des joueurs pour avoir été redessiné.",
+      "h2-1": "Apparence de Gnarpy",
+      "h3-1": "ancien modèle gnarpy",
+      "h3-1-p1": "L'ancienne apparence du modèle de Gnarpy est principalement d'un vert néon vif, à l'exception d'une étoile pentagonale jaune sur le ventre. Xon corps est structuré comme celui d'un humain mais avec un visage quelque peu félin. De plus, il y a deux antennes sur le dessus de la tête, avec des pointes qui peuvent émettre une lumière jaune vive.<br></br><br></br>La bouche de Gnarpy ressemble à une moustache humaine, très distinctive. Xes bras et jambes, outre leur couleur verte vive, ont également plusieurs rayures vert foncé, ajoutant un peu d'ornement à xon image.<br></br><br></br>Comme un chat, Gnarpy a une queue, également verte vive, avec deux rayures vert foncé. Si on ne regarde que la queue, elle ressemble à une chenille. De plus, les yeux de Gnarpy sont toujours fermés, ajoutant une touche de simplicité à xon air.",
+      "h3-2": "nouveau modèle gnarpy",
+      "h3-2-p1": "Le nouveau modèle de Gnarpy a subi d'importants changements d'apparence. Xielle a maintenant quatre mains au lieu de deux, quatre oreilles au lieu de deux, et deux queues au lieu d'une. Les moustaches faciales sont également devenues plus prononcées ; auparavant, il y avait quatre moustaches, deux de chaque côté du visage, mais maintenant il y en a trois de chaque côté, soit six au total. De plus, là où il y avait deux yeux auparavant, il y en a maintenant quatre.<br></br>En outre, une mise à jour importante est que le nouveau Gnarpy a ajouté des vêtements et des bottes, tous deux de couleur rouge foncé. Les vêtements comportent une petite étoile jaune foncé sur la poitrine. De plus, les jambes, qui étaient auparavant vert vif, sont désormais jaunes. Les rayures vert foncé sur le corps sont également devenues plus nombreuses.<br></br>L'ancien modèle de Gnarpy semblait comme si tout son corps était assemblé à partir de plusieurs blocs, tandis que le nouveau modèle de Gnarpy a des membres plus anthropomorphiques. Le visage ressemble toujours à celui d'un chat. Cependant, en raison du nombre de membres, beaucoup disent qu'xielle est un chat d'une autre planète.<br></br><br></br>Notamment, sur sa peau d'Halloween, xielle a des patchs sur son bras droit, son pied gauche et sa taille.",
+      "h2-2": "Description de Gnarpy dans le jeu",
+      "h2-2-p1": "Le vaisseau spatial vert de Gnarpy tombe en panne dans la forêt du camp Two Stud, s'écrasant dans la zone secrète du camp, où xielle va ensuite se faufiler dans l'ascenseur. Il y a une chance sur deux pour qu'xielle ou Spud! entre dans l'ascenseur à cet étage.",
+      "h3-3": "Tow Stud Camp",
+      "h3-4": "Spud",
+      "h2-3": "Voix et musique de Gnarpy",
+      "h2-4": "Blog Gnarpy",
+      "h2-5": "Galerie de modèles Gnarpy",
+      "h2-5-p1": "(sourcé à partir de x)",
+      "h2-6": "Les gens parlent de Gnarpy sur X",
+      "h2-7": "FAQ sur Gnarpy"
+    },
+    "blog": {
+      "title-1": "Pourquoi gnarpy est-il si populaire ?",
+      "p1": "Il y a tellement de PNJ dans ce jeu de regretevato, pourquoi le personnage gnarpy est-il le seul à susciter autant de discussions. Est-ce à cause de l'image du personnage ?"
+    }
+  },
+  "HeaderPage": {
+    "home": "Accueil",
+    "faq": "FAQ",
+    "blog": "Blog"
+  },
+  "VoiceTablePage": {
+    "table-description": "voix et chansons de gnarpy",
+    "description": "Description",
+    "audio": "Audio",
+    "p1": "gnarpy chante des chansons pop",
+    "p2": "gnarpy chante pour vous",
+    "p3": "Gnarpy vous apprend le japonais",
+    "error": "Votre navigateur ne prend pas en charge l'élément audio"
+  },
+  "FAQPage": {
+    "q1": "Qu'est-ce que Gnarpy ?",
+    "a1": "Gnarpy est un personnage PNJ dans le jeu regretevator, un jeu développé sur la plateforme Roblox et publié sur celle-ci, créé par un développeur appelé The Axolotl Sun",
+    "q2": "Quelle est l'origine de Gnarpy ?",
+    "a2": "Gnarpy a d'abord été conçu par AFRMation sur Twitter mais a été redessiné en raison de sa réputation négative. Avant d'être ajouté au jeu, Gnarpy était un OC (personnage original) Regretevator. L'image de Gnarpy a été inspirée par l'emoji :gnarpy: sur le serveur Discord officiel de The Axolotl Sun, créé par pizzacruzt sur Discord.",
+    "q3": "Comment obtenir le badge « CRASH LANDING » ?",
+    "a3": "Les joueurs peuvent obtenir le badge « Crash Landing » la première fois qu'ils rencontrent Gnarpy. Si un joueur meurt avant la fin de l'événement d'invasion UFO, il ne pourra pas obtenir le badge, ce qui signifie qu'il doit survivre pour l'obtenir.",
+    "q4": "Gnarpy peut-xielle s'asseoir ?",
+    "a4": "Actuellement, Gnarpy n'a pas d'animation assise. Au lieu de cela, xielle reste debout et glisse sur le sol Slide 4 Admin.",
+    "q5": "Quand Gnarpy n'entrera-t-xielle pas dans l'ascenseur ?",
+    "a5": "Gnarpy n'entrera pas dans l'ascenseur si MR est à l'intérieur ; xielle continuera à courir, probablement à la recherche d'un autre endroit où se cacher.",
+    "q6": "Combien de modèles Gnarpy y a-t-il ?",
+    "a6": "Il y a quatre modèles au total, ce qui fait de Gnarpy le PNJ avec le plus de modèles.",
+    "q7": "Quels produits dérivés Gnarpy existe-t-il ?",
+    "a7": "Actuellement, 'Gnarpy's left shoulder fur', 'Gnarpy's right shoulder fur', 'Gnarpy's neck fur', 'Gnarpy's face fur', 'Gnarpy's ears', et 'Gnarpy's head fur' sont les 6 articles disponibles à l'achat. D'autres produits ont été entièrement retirés en raison d'un différend sur la conception.",
+    "q8": "Quelle est l'inspiration et la source de la voix de Gnarpy ?",
+    "a8": "L'audio précédent de Gnarpy lorsqu'il est touché par une boule de neige ou arrosé d'eau provenait à l'origine de Deltarune. Plus précisément, il s'agissait du cri de Noelle lorsque Maus s'approche d'elle dans la salle d'énigme de la souris. L'audio parlant de Gnarpy provenait à l'origine d'une vidéo de « la personne qui a oublié d'éteindre le changeur de voix pendant le cours ». Selon cette personne, xielle a accidentellement appuyé sur l'effet Synth sur le processeur de voix Roland VT-3 avant de poser une question, faisant que sa voix ressemblait à celle de la vidéo. Dans le jeu, la vitesse de cette voix est augmentée d'environ 25 %.",
+    "q9": "À quel étage Gnarpy quittera-t-xielle l'ascenseur ?",
+    "a9": "Gnarpy quittera l'ascenseur à l'étage de la tourelle. Les joueurs sont autorisés à lui donner une pièce. Cependant, s'ils le font, rien ne se passe.",
+    "q10": "Quel est le genre de Gnarpy ?",
+    "a10": "Gnarpy est sans genre, donc les pronoms xry/xe sont utilisés.",
+    "q11": "Quel âge a Gnarpy ?",
+    "a11": "L'anniversaire est le 9 août mais aucune année spécifique n'est donnée. Cependant, l'année de création du jeu (2020) peut être prise en compte pour le calcul.",
+    "q12": "D'où vient Gnarpy ?",
+    "a12": "Gnarpy vient de la planète inexistante Gars. Selon The Axolotl Sun, le créateur du jeu regretevator, Gnarpy est maléfique.",
+    "q13": "Quelle est l'espèce de Gnarpy ?",
+    "a13": "Les Gnarpiens sont divisés en plusieurs rangs : citoyens, soldats, chefs adjoints et chefs principaux, chacun avec des rôles prédéterminés. Chaque armée peut avoir jusqu'à deux chefs adjoints, selon le travail à effectuer. Les vaisseaux bleus au sol sont des soldats gnarpiens et sont bleus. Gnarpy est répertorié comme chef conjoint dans l'armée gnarpienne, ce qui fait d'xelle quelqu'un de spécial. Les Gnarpiens peuvent communiquer avec d'autres créatures semblables à eux. On dit que Gnarpy et/ou les Gnarpiens saluent d'autres personnages similaires en tapotant leur visage avec leurs moustaches.",
+    "q14": "Quelle est la nourriture préférée de Gnarpy ?",
+    "a14": "Les glorpnorps gnarpiens, et xon type de nourriture préféré est les fruits.",
+    "q15": "Quelle est la musique préférée de Gnarpy ?",
+    "a15": "Le death metal."
+  },
+  "BlogPage": {
+    "title": "Actualités Gnarpy",
+    "description": "Découvrez les dernières nouvelles sur Gnarpy",
+    "h1": "Découvrez les dernières nouvelles sur Gnarpy",
+    "h1-p1": "Actualités et analyses approfondies sur Gnarpy",
+    "title-1": "Pourquoi gnarpy est-il si populaire ?",
+    "p1": "Il y a tellement de PNJ dans ce jeu de regretevato, pourquoi le personnage gnarpy est-il le seul à susciter autant de discussions. Est-ce à cause de l'image du personnage ?"
+  },
+  "BlogArticlePage": {
+    "title": "pourquoi gnarpy est-il si populaire ?",
+    "description": "Il y a tellement de PNJ dans ce jeu de regretevato, pourquoi le personnage gnarpy est-il le seul à susciter autant de discussions.",
+    "content": "Il y a tellement de PNJ dans ce jeu de regretevato, pourquoi le personnage gnarpy est-il le seul à susciter autant de discussions. Est-ce à cause de l'image du personnage ?"
+  }
+}
