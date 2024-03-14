@@ -1,11 +1,12 @@
 'use client';
 import {usePathname, useRouter} from '@/navigation';
+import {useLocale} from 'next-intl';
+ 
 
 export default function Multilang() {
   const pathname = usePathname();
   const route = useRouter();
-  // const { locale, asPath, query } = route;
-  console.log('pathname', route.pathname);
+  const locale = useLocale();
 
   const handleChange = (e) => {
     route.replace(pathname, {locale: `${e.target.value}`});
@@ -14,6 +15,7 @@ export default function Multilang() {
     <select
       className="cursor-default whitespace-pre border-gray-200 normal-case h-[1.75rem] mt-1"
       onChange={handleChange}
+      value={locale}
     >
       <option
         value="en"

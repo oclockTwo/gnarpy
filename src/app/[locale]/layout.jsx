@@ -37,7 +37,7 @@ export default function LocaleLayout({ children, params: { locale } }) {
         src="https://yearbookai.online/js/script.js"
       />
       <body className={lora.className}>
-        <Header />
+        <Header locale={locale} />
         {children}
       </body>
       <GoogleAnalytics gaId="G-ZVJD2TJ85Y" />

@@ -7,7 +7,7 @@ import { useTranslations } from "next-intl";
 
 import logo from "/public/images/logo.png";
 
-export default function Header() {
+export default function Header({locale}) {
   const t = useTranslations("HeaderPage");
 
   return (
@@ -31,7 +31,7 @@ export default function Header() {
               {t("blog")}
             </Link>
           </div>
-          <Multilang />
+          <Multilang locale={locale} />
           <ThemeChanger />
         </div>
       </div>
