@@ -83,7 +83,7 @@ export default function Multilang() {
         🇫🇷 Français
       </option>
       <option
-        value="he"
+        value="fi"
         className="whitespace-nowrap border-0 border-solid border-gray-200 text-neutral-800"
       >
         🇵🇭 Filipino
