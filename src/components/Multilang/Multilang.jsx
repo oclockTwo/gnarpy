@@ -82,12 +82,12 @@ export default function Multilang() {
       >
         🇫🇷 Français
       </option>
-      {/* <option
+      <option
         value="he"
         className="whitespace-nowrap border-0 border-solid border-gray-200 text-neutral-800"
       >
-        🇮🇱 עברית
-      </option> */}
+        🇵🇭 Filipino
+      </option>
       {/* <option
         value="hi"
         className="whitespace-nowrap border-0 border-solid border-gray-200 text-neutral-800"
