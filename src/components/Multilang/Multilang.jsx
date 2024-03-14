@@ -2,7 +2,6 @@
 import {usePathname, useRouter} from '@/navigation';
 import {useLocale} from 'next-intl';
  
-
 export default function Multilang() {
   const pathname = usePathname();
   const route = useRouter();
@@ -27,7 +26,7 @@ export default function Multilang() {
         value="es"
         className="whitespace-nowrap border-0 border-solid border-gray-200 text-neutral-800"
       >
-        🇪🇸 Español Russian 
+        🇪🇸 Español
       </option>
       <option
         value="zh"
