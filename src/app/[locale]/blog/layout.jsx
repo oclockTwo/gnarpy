@@ -1,12 +1,17 @@
 import {getTranslations} from 'next-intl/server';
+import { locales } from "@/navigation";
 
 export async function generateMetadata({params: {locale}}) {
   const t = await getTranslations({locale, namespace: 'BlogPage'});
+  const localeObj = locales.reduce((acc, locale) => {
+    acc[locale] = `/${locale}/blog`;
+    return acc;
+  }, {});
  
   return {
     title: t('title'),
     description: t('description'),
-    alternates: { canonical: "https://gnarpy.com/blog" },
+    alternates: { canonical: "/blog", languages: localeObj },
   };
 }
 

@@ -3,6 +3,7 @@ import Header from "@/components/Header/Header";
 import Script from "next/script";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import {getTranslations} from 'next-intl/server';
+import { locales } from "@/navigation";
 
 const inter = Inter({ subsets: ["latin"] });
 const lora = Lora({
@@ -13,10 +14,15 @@ const lora = Lora({
 
 export async function generateMetadata({params: {locale}}) {
   const t = await getTranslations({locale, namespace: 'IndexPage'});
+  const localeObj = locales.reduce((acc, locale) => {
+    acc[locale] = `/${locale}`;
+    return acc;
+  }, {});
   return {
+    metadataBase: new URL('https://gnarpy.com'),
     title: t('title'),
     description: t('description'),
-    alternates: { canonical: "https://gnarpy.com" },
+    alternates: { canonical: "/", languages: localeObj },
     authors: [{name: "blini"}],
   };
 }
