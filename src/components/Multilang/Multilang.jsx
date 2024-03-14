@@ -27,7 +27,7 @@ export default function Multilang() {
         value="es"
         className="whitespace-nowrap border-0 border-solid border-gray-200 text-neutral-800"
       >
-        🇪🇸 Español
+        🇪🇸 Español Russian 
       </option>
       <option
         value="zh"
@@ -149,12 +149,12 @@ export default function Multilang() {
       >
         🇷🇴 Română
       </option> */}
-      {/* <option
+      <option
         value="ru"
         className="whitespace-nowrap border-0 border-solid border-gray-200 text-neutral-800"
       >
         🇷🇺 Русский
-      </option> */}
+      </option>
       {/* <option
         value="sv"
         className="whitespace-nowrap border-0 border-solid border-gray-200 text-neutral-800"
