@@ -18,6 +18,7 @@ export async function generateMetadata({params: {locale}}) {
     acc[locale] = `/${locale}`;
     return acc;
   }, {});
+  delete localeObj["en"];
   return {
     metadataBase: new URL('https://gnarpy.com'),
     title: t('title'),

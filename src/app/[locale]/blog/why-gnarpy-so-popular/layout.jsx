@@ -7,6 +7,7 @@ export async function generateMetadata({params: {locale}}) {
     acc[locale] = `/${locale}/blog/why-gnarpy-so-popular`;
     return acc;
   }, {});
+  delete localeObj[locale];
   return {
     title: t('title'),
     description: t('description'),

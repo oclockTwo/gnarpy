@@ -1,6 +1,6 @@
 import {notFound} from 'next/navigation';
 import {getRequestConfig} from 'next-intl/server';
- 
+
 // Can be imported from a shared config
 const locales = ['en', 'zh', 'ja', 'es', 'de', 'fr', 'ko', 'pt', 'vi', 'ru', 'fi'];
  

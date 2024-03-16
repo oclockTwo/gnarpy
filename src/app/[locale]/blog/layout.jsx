@@ -7,7 +7,7 @@ export async function generateMetadata({params: {locale}}) {
     acc[locale] = `/${locale}/blog`;
     return acc;
   }, {});
- 
+  delete localeObj["en"];
   return {
     title: t('title'),
     description: t('description'),
