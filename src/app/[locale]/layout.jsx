@@ -38,16 +38,22 @@ export const viewport = {
 export default function LocaleLayout({ children, params: { locale } }) {
   return (
     <html lang={locale} data-theme="light">
-      <Script
-        defer
-        data-domain="gnarpy.com"
-        src="https://yearbookai.online/js/script.js"
-      />
-      <Script
-        lazyOnload
-        data-domain="gnarpy.com"
-        src="https://click.pageview.click/js/script.js"
-      />
+      <meta
+        name="google-adsense-account"
+        content="ca-pub-8993913594775765"
+      ></meta>
+      <head>
+        <Script
+          lazyOnload
+          data-domain="gnarpy.com"
+          src="https://click.pageview.click/js/script.js"
+        />
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8993913594775765"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className={lora.className}>
         <Header locale={locale} />
         {children}
