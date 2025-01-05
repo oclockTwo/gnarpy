@@ -12,6 +12,7 @@ import gnarpyBrand from "/public/images/gnarpy-brand.jpeg";
 import spud from "/public/images/spud.webp";
 import Faq from "@/components/Faq/Faq";
 import Blog from "@/components/Blog/Blog";
+import Footer from "@/components/footer";
 
 export default function Index() {
   const t = useTranslations("IndexPage");
@@ -117,6 +118,7 @@ export default function Index() {
       {t("headline.h2-7")}
       </h2>
       <Faq />
+      <Footer />
     </div>
   );
 }
